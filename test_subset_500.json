@@ -1,0 +1,2002 @@
+[
+  {
+    "image_file": "test/image/09204_00.jpg",
+    "cloth_file": "test/cloth/09204_00.jpg"
+  },
+  {
+    "image_file": "test/image/01527_00.jpg",
+    "cloth_file": "test/cloth/01527_00.jpg"
+  },
+  {
+    "image_file": "test/image/00401_00.jpg",
+    "cloth_file": "test/cloth/00401_00.jpg"
+  },
+  {
+    "image_file": "test/image/10688_00.jpg",
+    "cloth_file": "test/cloth/10688_00.jpg"
+  },
+  {
+    "image_file": "test/image/03838_00.jpg",
+    "cloth_file": "test/cloth/03838_00.jpg"
+  },
+  {
+    "image_file": "test/image/03349_00.jpg",
+    "cloth_file": "test/cloth/03349_00.jpg"
+  },
+  {
+    "image_file": "test/image/03013_00.jpg",
+    "cloth_file": "test/cloth/03013_00.jpg"
+  },
+  {
+    "image_file": "test/image/01920_00.jpg",
+    "cloth_file": "test/cloth/01920_00.jpg"
+  },
+  {
+    "image_file": "test/image/10644_00.jpg",
+    "cloth_file": "test/cloth/10644_00.jpg"
+  },
+  {
+    "image_file": "test/image/01410_00.jpg",
+    "cloth_file": "test/cloth/01410_00.jpg"
+  },
+  {
+    "image_file": "test/image/09768_00.jpg",
+    "cloth_file": "test/cloth/09768_00.jpg"
+  },
+  {
+    "image_file": "test/image/10686_00.jpg",
+    "cloth_file": "test/cloth/10686_00.jpg"
+  },
+  {
+    "image_file": "test/image/13049_00.jpg",
+    "cloth_file": "test/cloth/13049_00.jpg"
+  },
+  {
+    "image_file": "test/image/07899_00.jpg",
+    "cloth_file": "test/cloth/07899_00.jpg"
+  },
+  {
+    "image_file": "test/image/01198_00.jpg",
+    "cloth_file": "test/cloth/01198_00.jpg"
+  },
+  {
+    "image_file": "test/image/08452_00.jpg",
+    "cloth_file": "test/cloth/08452_00.jpg"
+  },
+  {
+    "image_file": "test/image/06161_00.jpg",
+    "cloth_file": "test/cloth/06161_00.jpg"
+  },
+  {
+    "image_file": "test/image/00494_00.jpg",
+    "cloth_file": "test/cloth/00494_00.jpg"
+  },
+  {
+    "image_file": "test/image/00474_00.jpg",
+    "cloth_file": "test/cloth/00474_00.jpg"
+  },
+  {
+    "image_file": "test/image/01268_00.jpg",
+    "cloth_file": "test/cloth/01268_00.jpg"
+  },
+  {
+    "image_file": "test/image/02967_00.jpg",
+    "cloth_file": "test/cloth/02967_00.jpg"
+  },
+  {
+    "image_file": "test/image/03162_00.jpg",
+    "cloth_file": "test/cloth/03162_00.jpg"
+  },
+  {
+    "image_file": "test/image/07309_00.jpg",
+    "cloth_file": "test/cloth/07309_00.jpg"
+  },
+  {
+    "image_file": "test/image/08668_00.jpg",
+    "cloth_file": "test/cloth/08668_00.jpg"
+  },
+  {
+    "image_file": "test/image/00458_00.jpg",
+    "cloth_file": "test/cloth/00458_00.jpg"
+  },
+  {
+    "image_file": "test/image/08110_00.jpg",
+    "cloth_file": "test/cloth/08110_00.jpg"
+  },
+  {
+    "image_file": "test/image/02743_00.jpg",
+    "cloth_file": "test/cloth/02743_00.jpg"
+  },
+  {
+    "image_file": "test/image/10352_00.jpg",
+    "cloth_file": "test/cloth/10352_00.jpg"
+  },
+  {
+    "image_file": "test/image/09345_00.jpg",
+    "cloth_file": "test/cloth/09345_00.jpg"
+  },
+  {
+    "image_file": "test/image/10087_00.jpg",
+    "cloth_file": "test/cloth/10087_00.jpg"
+  },
+  {
+    "image_file": "test/image/14586_00.jpg",
+    "cloth_file": "test/cloth/14586_00.jpg"
+  },
+  {
+    "image_file": "test/image/06132_00.jpg",
+    "cloth_file": "test/cloth/06132_00.jpg"
+  },
+  {
+    "image_file": "test/image/02996_00.jpg",
+    "cloth_file": "test/cloth/02996_00.jpg"
+  },
+  {
+    "image_file": "test/image/06563_00.jpg",
+    "cloth_file": "test/cloth/06563_00.jpg"
+  },
+  {
+    "image_file": "test/image/08429_00.jpg",
+    "cloth_file": "test/cloth/08429_00.jpg"
+  },
+  {
+    "image_file": "test/image/03884_00.jpg",
+    "cloth_file": "test/cloth/03884_00.jpg"
+  },
+  {
+    "image_file": "test/image/11726_00.jpg",
+    "cloth_file": "test/cloth/11726_00.jpg"
+  },
+  {
+    "image_file": "test/image/12634_00.jpg",
+    "cloth_file": "test/cloth/12634_00.jpg"
+  },
+  {
+    "image_file": "test/image/00075_00.jpg",
+    "cloth_file": "test/cloth/00075_00.jpg"
+  },
+  {
+    "image_file": "test/image/10930_00.jpg",
+    "cloth_file": "test/cloth/10930_00.jpg"
+  },
+  {
+    "image_file": "test/image/11697_00.jpg",
+    "cloth_file": "test/cloth/11697_00.jpg"
+  },
+  {
+    "image_file": "test/image/02116_00.jpg",
+    "cloth_file": "test/cloth/02116_00.jpg"
+  },
+  {
+    "image_file": "test/image/10062_00.jpg",
+    "cloth_file": "test/cloth/10062_00.jpg"
+  },
+  {
+    "image_file": "test/image/06168_00.jpg",
+    "cloth_file": "test/cloth/06168_00.jpg"
+  },
+  {
+    "image_file": "test/image/04892_00.jpg",
+    "cloth_file": "test/cloth/04892_00.jpg"
+  },
+  {
+    "image_file": "test/image/14415_00.jpg",
+    "cloth_file": "test/cloth/14415_00.jpg"
+  },
+  {
+    "image_file": "test/image/02066_00.jpg",
+    "cloth_file": "test/cloth/02066_00.jpg"
+  },
+  {
+    "image_file": "test/image/02941_00.jpg",
+    "cloth_file": "test/cloth/02941_00.jpg"
+  },
+  {
+    "image_file": "test/image/14097_00.jpg",
+    "cloth_file": "test/cloth/14097_00.jpg"
+  },
+  {
+    "image_file": "test/image/11001_00.jpg",
+    "cloth_file": "test/cloth/11001_00.jpg"
+  },
+  {
+    "image_file": "test/image/04815_00.jpg",
+    "cloth_file": "test/cloth/04815_00.jpg"
+  },
+  {
+    "image_file": "test/image/14629_00.jpg",
+    "cloth_file": "test/cloth/14629_00.jpg"
+  },
+  {
+    "image_file": "test/image/01265_00.jpg",
+    "cloth_file": "test/cloth/01265_00.jpg"
+  },
+  {
+    "image_file": "test/image/05531_00.jpg",
+    "cloth_file": "test/cloth/05531_00.jpg"
+  },
+  {
+    "image_file": "test/image/01341_00.jpg",
+    "cloth_file": "test/cloth/01341_00.jpg"
+  },
+  {
+    "image_file": "test/image/05208_00.jpg",
+    "cloth_file": "test/cloth/05208_00.jpg"
+  },
+  {
+    "image_file": "test/image/12318_00.jpg",
+    "cloth_file": "test/cloth/12318_00.jpg"
+  },
+  {
+    "image_file": "test/image/04946_00.jpg",
+    "cloth_file": "test/cloth/04946_00.jpg"
+  },
+  {
+    "image_file": "test/image/08687_00.jpg",
+    "cloth_file": "test/cloth/08687_00.jpg"
+  },
+  {
+    "image_file": "test/image/03634_00.jpg",
+    "cloth_file": "test/cloth/03634_00.jpg"
+  },
+  {
+    "image_file": "test/image/11706_00.jpg",
+    "cloth_file": "test/cloth/11706_00.jpg"
+  },
+  {
+    "image_file": "test/image/00654_00.jpg",
+    "cloth_file": "test/cloth/00654_00.jpg"
+  },
+  {
+    "image_file": "test/image/10513_00.jpg",
+    "cloth_file": "test/cloth/10513_00.jpg"
+  },
+  {
+    "image_file": "test/image/06705_00.jpg",
+    "cloth_file": "test/cloth/06705_00.jpg"
+  },
+  {
+    "image_file": "test/image/07772_00.jpg",
+    "cloth_file": "test/cloth/07772_00.jpg"
+  },
+  {
+    "image_file": "test/image/01741_00.jpg",
+    "cloth_file": "test/cloth/01741_00.jpg"
+  },
+  {
+    "image_file": "test/image/13556_00.jpg",
+    "cloth_file": "test/cloth/13556_00.jpg"
+  },
+  {
+    "image_file": "test/image/05513_00.jpg",
+    "cloth_file": "test/cloth/05513_00.jpg"
+  },
+  {
+    "image_file": "test/image/01123_00.jpg",
+    "cloth_file": "test/cloth/01123_00.jpg"
+  },
+  {
+    "image_file": "test/image/07966_00.jpg",
+    "cloth_file": "test/cloth/07966_00.jpg"
+  },
+  {
+    "image_file": "test/image/04136_00.jpg",
+    "cloth_file": "test/cloth/04136_00.jpg"
+  },
+  {
+    "image_file": "test/image/11994_00.jpg",
+    "cloth_file": "test/cloth/11994_00.jpg"
+  },
+  {
+    "image_file": "test/image/09067_00.jpg",
+    "cloth_file": "test/cloth/09067_00.jpg"
+  },
+  {
+    "image_file": "test/image/08902_00.jpg",
+    "cloth_file": "test/cloth/08902_00.jpg"
+  },
+  {
+    "image_file": "test/image/12891_00.jpg",
+    "cloth_file": "test/cloth/12891_00.jpg"
+  },
+  {
+    "image_file": "test/image/12506_00.jpg",
+    "cloth_file": "test/cloth/12506_00.jpg"
+  },
+  {
+    "image_file": "test/image/05242_00.jpg",
+    "cloth_file": "test/cloth/05242_00.jpg"
+  },
+  {
+    "image_file": "test/image/08296_00.jpg",
+    "cloth_file": "test/cloth/08296_00.jpg"
+  },
+  {
+    "image_file": "test/image/02636_00.jpg",
+    "cloth_file": "test/cloth/02636_00.jpg"
+  },
+  {
+    "image_file": "test/image/10157_00.jpg",
+    "cloth_file": "test/cloth/10157_00.jpg"
+  },
+  {
+    "image_file": "test/image/00992_00.jpg",
+    "cloth_file": "test/cloth/00992_00.jpg"
+  },
+  {
+    "image_file": "test/image/00698_00.jpg",
+    "cloth_file": "test/cloth/00698_00.jpg"
+  },
+  {
+    "image_file": "test/image/09525_00.jpg",
+    "cloth_file": "test/cloth/09525_00.jpg"
+  },
+  {
+    "image_file": "test/image/03075_00.jpg",
+    "cloth_file": "test/cloth/03075_00.jpg"
+  },
+  {
+    "image_file": "test/image/11182_00.jpg",
+    "cloth_file": "test/cloth/11182_00.jpg"
+  },
+  {
+    "image_file": "test/image/04071_00.jpg",
+    "cloth_file": "test/cloth/04071_00.jpg"
+  },
+  {
+    "image_file": "test/image/01143_00.jpg",
+    "cloth_file": "test/cloth/01143_00.jpg"
+  },
+  {
+    "image_file": "test/image/12384_00.jpg",
+    "cloth_file": "test/cloth/12384_00.jpg"
+  },
+  {
+    "image_file": "test/image/14531_00.jpg",
+    "cloth_file": "test/cloth/14531_00.jpg"
+  },
+  {
+    "image_file": "test/image/12598_00.jpg",
+    "cloth_file": "test/cloth/12598_00.jpg"
+  },
+  {
+    "image_file": "test/image/01399_00.jpg",
+    "cloth_file": "test/cloth/01399_00.jpg"
+  },
+  {
+    "image_file": "test/image/14222_00.jpg",
+    "cloth_file": "test/cloth/14222_00.jpg"
+  },
+  {
+    "image_file": "test/image/14287_00.jpg",
+    "cloth_file": "test/cloth/14287_00.jpg"
+  },
+  {
+    "image_file": "test/image/06647_00.jpg",
+    "cloth_file": "test/cloth/06647_00.jpg"
+  },
+  {
+    "image_file": "test/image/09163_00.jpg",
+    "cloth_file": "test/cloth/09163_00.jpg"
+  },
+  {
+    "image_file": "test/image/12069_00.jpg",
+    "cloth_file": "test/cloth/12069_00.jpg"
+  },
+  {
+    "image_file": "test/image/05297_00.jpg",
+    "cloth_file": "test/cloth/05297_00.jpg"
+  },
+  {
+    "image_file": "test/image/02171_00.jpg",
+    "cloth_file": "test/cloth/02171_00.jpg"
+  },
+  {
+    "image_file": "test/image/05364_00.jpg",
+    "cloth_file": "test/cloth/05364_00.jpg"
+  },
+  {
+    "image_file": "test/image/05156_00.jpg",
+    "cloth_file": "test/cloth/05156_00.jpg"
+  },
+  {
+    "image_file": "test/image/02876_00.jpg",
+    "cloth_file": "test/cloth/02876_00.jpg"
+  },
+  {
+    "image_file": "test/image/09660_00.jpg",
+    "cloth_file": "test/cloth/09660_00.jpg"
+  },
+  {
+    "image_file": "test/image/03694_00.jpg",
+    "cloth_file": "test/cloth/03694_00.jpg"
+  },
+  {
+    "image_file": "test/image/10090_00.jpg",
+    "cloth_file": "test/cloth/10090_00.jpg"
+  },
+  {
+    "image_file": "test/image/13787_00.jpg",
+    "cloth_file": "test/cloth/13787_00.jpg"
+  },
+  {
+    "image_file": "test/image/09845_00.jpg",
+    "cloth_file": "test/cloth/09845_00.jpg"
+  },
+  {
+    "image_file": "test/image/09305_00.jpg",
+    "cloth_file": "test/cloth/09305_00.jpg"
+  },
+  {
+    "image_file": "test/image/01011_00.jpg",
+    "cloth_file": "test/cloth/01011_00.jpg"
+  },
+  {
+    "image_file": "test/image/08780_00.jpg",
+    "cloth_file": "test/cloth/08780_00.jpg"
+  },
+  {
+    "image_file": "test/image/09162_00.jpg",
+    "cloth_file": "test/cloth/09162_00.jpg"
+  },
+  {
+    "image_file": "test/image/02288_00.jpg",
+    "cloth_file": "test/cloth/02288_00.jpg"
+  },
+  {
+    "image_file": "test/image/07742_00.jpg",
+    "cloth_file": "test/cloth/07742_00.jpg"
+  },
+  {
+    "image_file": "test/image/10495_00.jpg",
+    "cloth_file": "test/cloth/10495_00.jpg"
+  },
+  {
+    "image_file": "test/image/14669_00.jpg",
+    "cloth_file": "test/cloth/14669_00.jpg"
+  },
+  {
+    "image_file": "test/image/02179_00.jpg",
+    "cloth_file": "test/cloth/02179_00.jpg"
+  },
+  {
+    "image_file": "test/image/06744_00.jpg",
+    "cloth_file": "test/cloth/06744_00.jpg"
+  },
+  {
+    "image_file": "test/image/05524_00.jpg",
+    "cloth_file": "test/cloth/05524_00.jpg"
+  },
+  {
+    "image_file": "test/image/03716_00.jpg",
+    "cloth_file": "test/cloth/03716_00.jpg"
+  },
+  {
+    "image_file": "test/image/13589_00.jpg",
+    "cloth_file": "test/cloth/13589_00.jpg"
+  },
+  {
+    "image_file": "test/image/09215_00.jpg",
+    "cloth_file": "test/cloth/09215_00.jpg"
+  },
+  {
+    "image_file": "test/image/09912_00.jpg",
+    "cloth_file": "test/cloth/09912_00.jpg"
+  },
+  {
+    "image_file": "test/image/08042_00.jpg",
+    "cloth_file": "test/cloth/08042_00.jpg"
+  },
+  {
+    "image_file": "test/image/02988_00.jpg",
+    "cloth_file": "test/cloth/02988_00.jpg"
+  },
+  {
+    "image_file": "test/image/09867_00.jpg",
+    "cloth_file": "test/cloth/09867_00.jpg"
+  },
+  {
+    "image_file": "test/image/04639_00.jpg",
+    "cloth_file": "test/cloth/04639_00.jpg"
+  },
+  {
+    "image_file": "test/image/12228_00.jpg",
+    "cloth_file": "test/cloth/12228_00.jpg"
+  },
+  {
+    "image_file": "test/image/11102_00.jpg",
+    "cloth_file": "test/cloth/11102_00.jpg"
+  },
+  {
+    "image_file": "test/image/11240_00.jpg",
+    "cloth_file": "test/cloth/11240_00.jpg"
+  },
+  {
+    "image_file": "test/image/00828_00.jpg",
+    "cloth_file": "test/cloth/00828_00.jpg"
+  },
+  {
+    "image_file": "test/image/03112_00.jpg",
+    "cloth_file": "test/cloth/03112_00.jpg"
+  },
+  {
+    "image_file": "test/image/11892_00.jpg",
+    "cloth_file": "test/cloth/11892_00.jpg"
+  },
+  {
+    "image_file": "test/image/14556_00.jpg",
+    "cloth_file": "test/cloth/14556_00.jpg"
+  },
+  {
+    "image_file": "test/image/11676_00.jpg",
+    "cloth_file": "test/cloth/11676_00.jpg"
+  },
+  {
+    "image_file": "test/image/04557_00.jpg",
+    "cloth_file": "test/cloth/04557_00.jpg"
+  },
+  {
+    "image_file": "test/image/05912_00.jpg",
+    "cloth_file": "test/cloth/05912_00.jpg"
+  },
+  {
+    "image_file": "test/image/03697_00.jpg",
+    "cloth_file": "test/cloth/03697_00.jpg"
+  },
+  {
+    "image_file": "test/image/00960_00.jpg",
+    "cloth_file": "test/cloth/00960_00.jpg"
+  },
+  {
+    "image_file": "test/image/02894_00.jpg",
+    "cloth_file": "test/cloth/02894_00.jpg"
+  },
+  {
+    "image_file": "test/image/13406_00.jpg",
+    "cloth_file": "test/cloth/13406_00.jpg"
+  },
+  {
+    "image_file": "test/image/08199_00.jpg",
+    "cloth_file": "test/cloth/08199_00.jpg"
+  },
+  {
+    "image_file": "test/image/12748_00.jpg",
+    "cloth_file": "test/cloth/12748_00.jpg"
+  },
+  {
+    "image_file": "test/image/10374_00.jpg",
+    "cloth_file": "test/cloth/10374_00.jpg"
+  },
+  {
+    "image_file": "test/image/04528_00.jpg",
+    "cloth_file": "test/cloth/04528_00.jpg"
+  },
+  {
+    "image_file": "test/image/02912_00.jpg",
+    "cloth_file": "test/cloth/02912_00.jpg"
+  },
+  {
+    "image_file": "test/image/09459_00.jpg",
+    "cloth_file": "test/cloth/09459_00.jpg"
+  },
+  {
+    "image_file": "test/image/07225_00.jpg",
+    "cloth_file": "test/cloth/07225_00.jpg"
+  },
+  {
+    "image_file": "test/image/05838_00.jpg",
+    "cloth_file": "test/cloth/05838_00.jpg"
+  },
+  {
+    "image_file": "test/image/12875_00.jpg",
+    "cloth_file": "test/cloth/12875_00.jpg"
+  },
+  {
+    "image_file": "test/image/13410_00.jpg",
+    "cloth_file": "test/cloth/13410_00.jpg"
+  },
+  {
+    "image_file": "test/image/09253_00.jpg",
+    "cloth_file": "test/cloth/09253_00.jpg"
+  },
+  {
+    "image_file": "test/image/06695_00.jpg",
+    "cloth_file": "test/cloth/06695_00.jpg"
+  },
+  {
+    "image_file": "test/image/01961_00.jpg",
+    "cloth_file": "test/cloth/01961_00.jpg"
+  },
+  {
+    "image_file": "test/image/03639_00.jpg",
+    "cloth_file": "test/cloth/03639_00.jpg"
+  },
+  {
+    "image_file": "test/image/14651_00.jpg",
+    "cloth_file": "test/cloth/14651_00.jpg"
+  },
+  {
+    "image_file": "test/image/03390_00.jpg",
+    "cloth_file": "test/cloth/03390_00.jpg"
+  },
+  {
+    "image_file": "test/image/10723_00.jpg",
+    "cloth_file": "test/cloth/10723_00.jpg"
+  },
+  {
+    "image_file": "test/image/14508_00.jpg",
+    "cloth_file": "test/cloth/14508_00.jpg"
+  },
+  {
+    "image_file": "test/image/07814_00.jpg",
+    "cloth_file": "test/cloth/07814_00.jpg"
+  },
+  {
+    "image_file": "test/image/03608_00.jpg",
+    "cloth_file": "test/cloth/03608_00.jpg"
+  },
+  {
+    "image_file": "test/image/10741_00.jpg",
+    "cloth_file": "test/cloth/10741_00.jpg"
+  },
+  {
+    "image_file": "test/image/08378_00.jpg",
+    "cloth_file": "test/cloth/08378_00.jpg"
+  },
+  {
+    "image_file": "test/image/06261_00.jpg",
+    "cloth_file": "test/cloth/06261_00.jpg"
+  },
+  {
+    "image_file": "test/image/13140_00.jpg",
+    "cloth_file": "test/cloth/13140_00.jpg"
+  },
+  {
+    "image_file": "test/image/08374_00.jpg",
+    "cloth_file": "test/cloth/08374_00.jpg"
+  },
+  {
+    "image_file": "test/image/05891_00.jpg",
+    "cloth_file": "test/cloth/05891_00.jpg"
+  },
+  {
+    "image_file": "test/image/05244_00.jpg",
+    "cloth_file": "test/cloth/05244_00.jpg"
+  },
+  {
+    "image_file": "test/image/13709_00.jpg",
+    "cloth_file": "test/cloth/13709_00.jpg"
+  },
+  {
+    "image_file": "test/image/01900_00.jpg",
+    "cloth_file": "test/cloth/01900_00.jpg"
+  },
+  {
+    "image_file": "test/image/07367_00.jpg",
+    "cloth_file": "test/cloth/07367_00.jpg"
+  },
+  {
+    "image_file": "test/image/07156_00.jpg",
+    "cloth_file": "test/cloth/07156_00.jpg"
+  },
+  {
+    "image_file": "test/image/01253_00.jpg",
+    "cloth_file": "test/cloth/01253_00.jpg"
+  },
+  {
+    "image_file": "test/image/10852_00.jpg",
+    "cloth_file": "test/cloth/10852_00.jpg"
+  },
+  {
+    "image_file": "test/image/00713_00.jpg",
+    "cloth_file": "test/cloth/00713_00.jpg"
+  },
+  {
+    "image_file": "test/image/12501_00.jpg",
+    "cloth_file": "test/cloth/12501_00.jpg"
+  },
+  {
+    "image_file": "test/image/01503_00.jpg",
+    "cloth_file": "test/cloth/01503_00.jpg"
+  },
+  {
+    "image_file": "test/image/02039_00.jpg",
+    "cloth_file": "test/cloth/02039_00.jpg"
+  },
+  {
+    "image_file": "test/image/09055_00.jpg",
+    "cloth_file": "test/cloth/09055_00.jpg"
+  },
+  {
+    "image_file": "test/image/02118_00.jpg",
+    "cloth_file": "test/cloth/02118_00.jpg"
+  },
+  {
+    "image_file": "test/image/11503_00.jpg",
+    "cloth_file": "test/cloth/11503_00.jpg"
+  },
+  {
+    "image_file": "test/image/09807_00.jpg",
+    "cloth_file": "test/cloth/09807_00.jpg"
+  },
+  {
+    "image_file": "test/image/14571_00.jpg",
+    "cloth_file": "test/cloth/14571_00.jpg"
+  },
+  {
+    "image_file": "test/image/08579_00.jpg",
+    "cloth_file": "test/cloth/08579_00.jpg"
+  },
+  {
+    "image_file": "test/image/00916_00.jpg",
+    "cloth_file": "test/cloth/00916_00.jpg"
+  },
+  {
+    "image_file": "test/image/05580_00.jpg",
+    "cloth_file": "test/cloth/05580_00.jpg"
+  },
+  {
+    "image_file": "test/image/05540_00.jpg",
+    "cloth_file": "test/cloth/05540_00.jpg"
+  },
+  {
+    "image_file": "test/image/08571_00.jpg",
+    "cloth_file": "test/cloth/08571_00.jpg"
+  },
+  {
+    "image_file": "test/image/06820_00.jpg",
+    "cloth_file": "test/cloth/06820_00.jpg"
+  },
+  {
+    "image_file": "test/image/07675_00.jpg",
+    "cloth_file": "test/cloth/07675_00.jpg"
+  },
+  {
+    "image_file": "test/image/03430_00.jpg",
+    "cloth_file": "test/cloth/03430_00.jpg"
+  },
+  {
+    "image_file": "test/image/07975_00.jpg",
+    "cloth_file": "test/cloth/07975_00.jpg"
+  },
+  {
+    "image_file": "test/image/12500_00.jpg",
+    "cloth_file": "test/cloth/12500_00.jpg"
+  },
+  {
+    "image_file": "test/image/00135_00.jpg",
+    "cloth_file": "test/cloth/00135_00.jpg"
+  },
+  {
+    "image_file": "test/image/13283_00.jpg",
+    "cloth_file": "test/cloth/13283_00.jpg"
+  },
+  {
+    "image_file": "test/image/10414_00.jpg",
+    "cloth_file": "test/cloth/10414_00.jpg"
+  },
+  {
+    "image_file": "test/image/01581_00.jpg",
+    "cloth_file": "test/cloth/01581_00.jpg"
+  },
+  {
+    "image_file": "test/image/09824_00.jpg",
+    "cloth_file": "test/cloth/09824_00.jpg"
+  },
+  {
+    "image_file": "test/image/12876_00.jpg",
+    "cloth_file": "test/cloth/12876_00.jpg"
+  },
+  {
+    "image_file": "test/image/07782_00.jpg",
+    "cloth_file": "test/cloth/07782_00.jpg"
+  },
+  {
+    "image_file": "test/image/10819_00.jpg",
+    "cloth_file": "test/cloth/10819_00.jpg"
+  },
+  {
+    "image_file": "test/image/13937_00.jpg",
+    "cloth_file": "test/cloth/13937_00.jpg"
+  },
+  {
+    "image_file": "test/image/11122_00.jpg",
+    "cloth_file": "test/cloth/11122_00.jpg"
+  },
+  {
+    "image_file": "test/image/09236_00.jpg",
+    "cloth_file": "test/cloth/09236_00.jpg"
+  },
+  {
+    "image_file": "test/image/14296_00.jpg",
+    "cloth_file": "test/cloth/14296_00.jpg"
+  },
+  {
+    "image_file": "test/image/14676_00.jpg",
+    "cloth_file": "test/cloth/14676_00.jpg"
+  },
+  {
+    "image_file": "test/image/04137_00.jpg",
+    "cloth_file": "test/cloth/04137_00.jpg"
+  },
+  {
+    "image_file": "test/image/06360_00.jpg",
+    "cloth_file": "test/cloth/06360_00.jpg"
+  },
+  {
+    "image_file": "test/image/02094_00.jpg",
+    "cloth_file": "test/cloth/02094_00.jpg"
+  },
+  {
+    "image_file": "test/image/06648_00.jpg",
+    "cloth_file": "test/cloth/06648_00.jpg"
+  },
+  {
+    "image_file": "test/image/00055_00.jpg",
+    "cloth_file": "test/cloth/00055_00.jpg"
+  },
+  {
+    "image_file": "test/image/10432_00.jpg",
+    "cloth_file": "test/cloth/10432_00.jpg"
+  },
+  {
+    "image_file": "test/image/12741_00.jpg",
+    "cloth_file": "test/cloth/12741_00.jpg"
+  },
+  {
+    "image_file": "test/image/10404_00.jpg",
+    "cloth_file": "test/cloth/10404_00.jpg"
+  },
+  {
+    "image_file": "test/image/03615_00.jpg",
+    "cloth_file": "test/cloth/03615_00.jpg"
+  },
+  {
+    "image_file": "test/image/07236_00.jpg",
+    "cloth_file": "test/cloth/07236_00.jpg"
+  },
+  {
+    "image_file": "test/image/10981_00.jpg",
+    "cloth_file": "test/cloth/10981_00.jpg"
+  },
+  {
+    "image_file": "test/image/02400_00.jpg",
+    "cloth_file": "test/cloth/02400_00.jpg"
+  },
+  {
+    "image_file": "test/image/07344_00.jpg",
+    "cloth_file": "test/cloth/07344_00.jpg"
+  },
+  {
+    "image_file": "test/image/01446_00.jpg",
+    "cloth_file": "test/cloth/01446_00.jpg"
+  },
+  {
+    "image_file": "test/image/12651_00.jpg",
+    "cloth_file": "test/cloth/12651_00.jpg"
+  },
+  {
+    "image_file": "test/image/08989_00.jpg",
+    "cloth_file": "test/cloth/08989_00.jpg"
+  },
+  {
+    "image_file": "test/image/04269_00.jpg",
+    "cloth_file": "test/cloth/04269_00.jpg"
+  },
+  {
+    "image_file": "test/image/12215_00.jpg",
+    "cloth_file": "test/cloth/12215_00.jpg"
+  },
+  {
+    "image_file": "test/image/09199_00.jpg",
+    "cloth_file": "test/cloth/09199_00.jpg"
+  },
+  {
+    "image_file": "test/image/12903_00.jpg",
+    "cloth_file": "test/cloth/12903_00.jpg"
+  },
+  {
+    "image_file": "test/image/13855_00.jpg",
+    "cloth_file": "test/cloth/13855_00.jpg"
+  },
+  {
+    "image_file": "test/image/14486_00.jpg",
+    "cloth_file": "test/cloth/14486_00.jpg"
+  },
+  {
+    "image_file": "test/image/13308_00.jpg",
+    "cloth_file": "test/cloth/13308_00.jpg"
+  },
+  {
+    "image_file": "test/image/05392_00.jpg",
+    "cloth_file": "test/cloth/05392_00.jpg"
+  },
+  {
+    "image_file": "test/image/10993_00.jpg",
+    "cloth_file": "test/cloth/10993_00.jpg"
+  },
+  {
+    "image_file": "test/image/02152_00.jpg",
+    "cloth_file": "test/cloth/02152_00.jpg"
+  },
+  {
+    "image_file": "test/image/07825_00.jpg",
+    "cloth_file": "test/cloth/07825_00.jpg"
+  },
+  {
+    "image_file": "test/image/11297_00.jpg",
+    "cloth_file": "test/cloth/11297_00.jpg"
+  },
+  {
+    "image_file": "test/image/07706_00.jpg",
+    "cloth_file": "test/cloth/07706_00.jpg"
+  },
+  {
+    "image_file": "test/image/00008_00.jpg",
+    "cloth_file": "test/cloth/00008_00.jpg"
+  },
+  {
+    "image_file": "test/image/08624_00.jpg",
+    "cloth_file": "test/cloth/08624_00.jpg"
+  },
+  {
+    "image_file": "test/image/04637_00.jpg",
+    "cloth_file": "test/cloth/04637_00.jpg"
+  },
+  {
+    "image_file": "test/image/07118_00.jpg",
+    "cloth_file": "test/cloth/07118_00.jpg"
+  },
+  {
+    "image_file": "test/image/00287_00.jpg",
+    "cloth_file": "test/cloth/00287_00.jpg"
+  },
+  {
+    "image_file": "test/image/01528_00.jpg",
+    "cloth_file": "test/cloth/01528_00.jpg"
+  },
+  {
+    "image_file": "test/image/05262_00.jpg",
+    "cloth_file": "test/cloth/05262_00.jpg"
+  },
+  {
+    "image_file": "test/image/12024_00.jpg",
+    "cloth_file": "test/cloth/12024_00.jpg"
+  },
+  {
+    "image_file": "test/image/14181_00.jpg",
+    "cloth_file": "test/cloth/14181_00.jpg"
+  },
+  {
+    "image_file": "test/image/04405_00.jpg",
+    "cloth_file": "test/cloth/04405_00.jpg"
+  },
+  {
+    "image_file": "test/image/03267_00.jpg",
+    "cloth_file": "test/cloth/03267_00.jpg"
+  },
+  {
+    "image_file": "test/image/00858_00.jpg",
+    "cloth_file": "test/cloth/00858_00.jpg"
+  },
+  {
+    "image_file": "test/image/03283_00.jpg",
+    "cloth_file": "test/cloth/03283_00.jpg"
+  },
+  {
+    "image_file": "test/image/13574_00.jpg",
+    "cloth_file": "test/cloth/13574_00.jpg"
+  },
+  {
+    "image_file": "test/image/14120_00.jpg",
+    "cloth_file": "test/cloth/14120_00.jpg"
+  },
+  {
+    "image_file": "test/image/01181_00.jpg",
+    "cloth_file": "test/cloth/01181_00.jpg"
+  },
+  {
+    "image_file": "test/image/10545_00.jpg",
+    "cloth_file": "test/cloth/10545_00.jpg"
+  },
+  {
+    "image_file": "test/image/07085_00.jpg",
+    "cloth_file": "test/cloth/07085_00.jpg"
+  },
+  {
+    "image_file": "test/image/11789_00.jpg",
+    "cloth_file": "test/cloth/11789_00.jpg"
+  },
+  {
+    "image_file": "test/image/00991_00.jpg",
+    "cloth_file": "test/cloth/00991_00.jpg"
+  },
+  {
+    "image_file": "test/image/10947_00.jpg",
+    "cloth_file": "test/cloth/10947_00.jpg"
+  },
+  {
+    "image_file": "test/image/07726_00.jpg",
+    "cloth_file": "test/cloth/07726_00.jpg"
+  },
+  {
+    "image_file": "test/image/11053_00.jpg",
+    "cloth_file": "test/cloth/11053_00.jpg"
+  },
+  {
+    "image_file": "test/image/01748_00.jpg",
+    "cloth_file": "test/cloth/01748_00.jpg"
+  },
+  {
+    "image_file": "test/image/01796_00.jpg",
+    "cloth_file": "test/cloth/01796_00.jpg"
+  },
+  {
+    "image_file": "test/image/09509_00.jpg",
+    "cloth_file": "test/cloth/09509_00.jpg"
+  },
+  {
+    "image_file": "test/image/06936_00.jpg",
+    "cloth_file": "test/cloth/06936_00.jpg"
+  },
+  {
+    "image_file": "test/image/07941_00.jpg",
+    "cloth_file": "test/cloth/07941_00.jpg"
+  },
+  {
+    "image_file": "test/image/02198_00.jpg",
+    "cloth_file": "test/cloth/02198_00.jpg"
+  },
+  {
+    "image_file": "test/image/13491_00.jpg",
+    "cloth_file": "test/cloth/13491_00.jpg"
+  },
+  {
+    "image_file": "test/image/07627_00.jpg",
+    "cloth_file": "test/cloth/07627_00.jpg"
+  },
+  {
+    "image_file": "test/image/08735_00.jpg",
+    "cloth_file": "test/cloth/08735_00.jpg"
+  },
+  {
+    "image_file": "test/image/06173_00.jpg",
+    "cloth_file": "test/cloth/06173_00.jpg"
+  },
+  {
+    "image_file": "test/image/02902_00.jpg",
+    "cloth_file": "test/cloth/02902_00.jpg"
+  },
+  {
+    "image_file": "test/image/12807_00.jpg",
+    "cloth_file": "test/cloth/12807_00.jpg"
+  },
+  {
+    "image_file": "test/image/10849_00.jpg",
+    "cloth_file": "test/cloth/10849_00.jpg"
+  },
+  {
+    "image_file": "test/image/14173_00.jpg",
+    "cloth_file": "test/cloth/14173_00.jpg"
+  },
+  {
+    "image_file": "test/image/09933_00.jpg",
+    "cloth_file": "test/cloth/09933_00.jpg"
+  },
+  {
+    "image_file": "test/image/02763_00.jpg",
+    "cloth_file": "test/cloth/02763_00.jpg"
+  },
+  {
+    "image_file": "test/image/10303_00.jpg",
+    "cloth_file": "test/cloth/10303_00.jpg"
+  },
+  {
+    "image_file": "test/image/04493_00.jpg",
+    "cloth_file": "test/cloth/04493_00.jpg"
+  },
+  {
+    "image_file": "test/image/13371_00.jpg",
+    "cloth_file": "test/cloth/13371_00.jpg"
+  },
+  {
+    "image_file": "test/image/09680_00.jpg",
+    "cloth_file": "test/cloth/09680_00.jpg"
+  },
+  {
+    "image_file": "test/image/14473_00.jpg",
+    "cloth_file": "test/cloth/14473_00.jpg"
+  },
+  {
+    "image_file": "test/image/05390_00.jpg",
+    "cloth_file": "test/cloth/05390_00.jpg"
+  },
+  {
+    "image_file": "test/image/06423_00.jpg",
+    "cloth_file": "test/cloth/06423_00.jpg"
+  },
+  {
+    "image_file": "test/image/07448_00.jpg",
+    "cloth_file": "test/cloth/07448_00.jpg"
+  },
+  {
+    "image_file": "test/image/06631_00.jpg",
+    "cloth_file": "test/cloth/06631_00.jpg"
+  },
+  {
+    "image_file": "test/image/01689_00.jpg",
+    "cloth_file": "test/cloth/01689_00.jpg"
+  },
+  {
+    "image_file": "test/image/03393_00.jpg",
+    "cloth_file": "test/cloth/03393_00.jpg"
+  },
+  {
+    "image_file": "test/image/03033_00.jpg",
+    "cloth_file": "test/cloth/03033_00.jpg"
+  },
+  {
+    "image_file": "test/image/00920_00.jpg",
+    "cloth_file": "test/cloth/00920_00.jpg"
+  },
+  {
+    "image_file": "test/image/04836_00.jpg",
+    "cloth_file": "test/cloth/04836_00.jpg"
+  },
+  {
+    "image_file": "test/image/00339_00.jpg",
+    "cloth_file": "test/cloth/00339_00.jpg"
+  },
+  {
+    "image_file": "test/image/08422_00.jpg",
+    "cloth_file": "test/cloth/08422_00.jpg"
+  },
+  {
+    "image_file": "test/image/07977_00.jpg",
+    "cloth_file": "test/cloth/07977_00.jpg"
+  },
+  {
+    "image_file": "test/image/03126_00.jpg",
+    "cloth_file": "test/cloth/03126_00.jpg"
+  },
+  {
+    "image_file": "test/image/08428_00.jpg",
+    "cloth_file": "test/cloth/08428_00.jpg"
+  },
+  {
+    "image_file": "test/image/14439_00.jpg",
+    "cloth_file": "test/cloth/14439_00.jpg"
+  },
+  {
+    "image_file": "test/image/00084_00.jpg",
+    "cloth_file": "test/cloth/00084_00.jpg"
+  },
+  {
+    "image_file": "test/image/01008_00.jpg",
+    "cloth_file": "test/cloth/01008_00.jpg"
+  },
+  {
+    "image_file": "test/image/10223_00.jpg",
+    "cloth_file": "test/cloth/10223_00.jpg"
+  },
+  {
+    "image_file": "test/image/09102_00.jpg",
+    "cloth_file": "test/cloth/09102_00.jpg"
+  },
+  {
+    "image_file": "test/image/00865_00.jpg",
+    "cloth_file": "test/cloth/00865_00.jpg"
+  },
+  {
+    "image_file": "test/image/03089_00.jpg",
+    "cloth_file": "test/cloth/03089_00.jpg"
+  },
+  {
+    "image_file": "test/image/00984_00.jpg",
+    "cloth_file": "test/cloth/00984_00.jpg"
+  },
+  {
+    "image_file": "test/image/00484_00.jpg",
+    "cloth_file": "test/cloth/00484_00.jpg"
+  },
+  {
+    "image_file": "test/image/04699_00.jpg",
+    "cloth_file": "test/cloth/04699_00.jpg"
+  },
+  {
+    "image_file": "test/image/12341_00.jpg",
+    "cloth_file": "test/cloth/12341_00.jpg"
+  },
+  {
+    "image_file": "test/image/07414_00.jpg",
+    "cloth_file": "test/cloth/07414_00.jpg"
+  },
+  {
+    "image_file": "test/image/03244_00.jpg",
+    "cloth_file": "test/cloth/03244_00.jpg"
+  },
+  {
+    "image_file": "test/image/03906_00.jpg",
+    "cloth_file": "test/cloth/03906_00.jpg"
+  },
+  {
+    "image_file": "test/image/09644_00.jpg",
+    "cloth_file": "test/cloth/09644_00.jpg"
+  },
+  {
+    "image_file": "test/image/07077_00.jpg",
+    "cloth_file": "test/cloth/07077_00.jpg"
+  },
+  {
+    "image_file": "test/image/02926_00.jpg",
+    "cloth_file": "test/cloth/02926_00.jpg"
+  },
+  {
+    "image_file": "test/image/14059_00.jpg",
+    "cloth_file": "test/cloth/14059_00.jpg"
+  },
+  {
+    "image_file": "test/image/01832_00.jpg",
+    "cloth_file": "test/cloth/01832_00.jpg"
+  },
+  {
+    "image_file": "test/image/10448_00.jpg",
+    "cloth_file": "test/cloth/10448_00.jpg"
+  },
+  {
+    "image_file": "test/image/08239_00.jpg",
+    "cloth_file": "test/cloth/08239_00.jpg"
+  },
+  {
+    "image_file": "test/image/08281_00.jpg",
+    "cloth_file": "test/cloth/08281_00.jpg"
+  },
+  {
+    "image_file": "test/image/06893_00.jpg",
+    "cloth_file": "test/cloth/06893_00.jpg"
+  },
+  {
+    "image_file": "test/image/03291_00.jpg",
+    "cloth_file": "test/cloth/03291_00.jpg"
+  },
+  {
+    "image_file": "test/image/11388_00.jpg",
+    "cloth_file": "test/cloth/11388_00.jpg"
+  },
+  {
+    "image_file": "test/image/12178_00.jpg",
+    "cloth_file": "test/cloth/12178_00.jpg"
+  },
+  {
+    "image_file": "test/image/11707_00.jpg",
+    "cloth_file": "test/cloth/11707_00.jpg"
+  },
+  {
+    "image_file": "test/image/05979_00.jpg",
+    "cloth_file": "test/cloth/05979_00.jpg"
+  },
+  {
+    "image_file": "test/image/02595_00.jpg",
+    "cloth_file": "test/cloth/02595_00.jpg"
+  },
+  {
+    "image_file": "test/image/01287_00.jpg",
+    "cloth_file": "test/cloth/01287_00.jpg"
+  },
+  {
+    "image_file": "test/image/14214_00.jpg",
+    "cloth_file": "test/cloth/14214_00.jpg"
+  },
+  {
+    "image_file": "test/image/09505_00.jpg",
+    "cloth_file": "test/cloth/09505_00.jpg"
+  },
+  {
+    "image_file": "test/image/06319_00.jpg",
+    "cloth_file": "test/cloth/06319_00.jpg"
+  },
+  {
+    "image_file": "test/image/05115_00.jpg",
+    "cloth_file": "test/cloth/05115_00.jpg"
+  },
+  {
+    "image_file": "test/image/06180_00.jpg",
+    "cloth_file": "test/cloth/06180_00.jpg"
+  },
+  {
+    "image_file": "test/image/06029_00.jpg",
+    "cloth_file": "test/cloth/06029_00.jpg"
+  },
+  {
+    "image_file": "test/image/06805_00.jpg",
+    "cloth_file": "test/cloth/06805_00.jpg"
+  },
+  {
+    "image_file": "test/image/13806_00.jpg",
+    "cloth_file": "test/cloth/13806_00.jpg"
+  },
+  {
+    "image_file": "test/image/00814_00.jpg",
+    "cloth_file": "test/cloth/00814_00.jpg"
+  },
+  {
+    "image_file": "test/image/09710_00.jpg",
+    "cloth_file": "test/cloth/09710_00.jpg"
+  },
+  {
+    "image_file": "test/image/09422_00.jpg",
+    "cloth_file": "test/cloth/09422_00.jpg"
+  },
+  {
+    "image_file": "test/image/09276_00.jpg",
+    "cloth_file": "test/cloth/09276_00.jpg"
+  },
+  {
+    "image_file": "test/image/01365_00.jpg",
+    "cloth_file": "test/cloth/01365_00.jpg"
+  },
+  {
+    "image_file": "test/image/00889_00.jpg",
+    "cloth_file": "test/cloth/00889_00.jpg"
+  },
+  {
+    "image_file": "test/image/05932_00.jpg",
+    "cloth_file": "test/cloth/05932_00.jpg"
+  },
+  {
+    "image_file": "test/image/10493_00.jpg",
+    "cloth_file": "test/cloth/10493_00.jpg"
+  },
+  {
+    "image_file": "test/image/04852_00.jpg",
+    "cloth_file": "test/cloth/04852_00.jpg"
+  },
+  {
+    "image_file": "test/image/11626_00.jpg",
+    "cloth_file": "test/cloth/11626_00.jpg"
+  },
+  {
+    "image_file": "test/image/01486_00.jpg",
+    "cloth_file": "test/cloth/01486_00.jpg"
+  },
+  {
+    "image_file": "test/image/03407_00.jpg",
+    "cloth_file": "test/cloth/03407_00.jpg"
+  },
+  {
+    "image_file": "test/image/02620_00.jpg",
+    "cloth_file": "test/cloth/02620_00.jpg"
+  },
+  {
+    "image_file": "test/image/12130_00.jpg",
+    "cloth_file": "test/cloth/12130_00.jpg"
+  },
+  {
+    "image_file": "test/image/14161_00.jpg",
+    "cloth_file": "test/cloth/14161_00.jpg"
+  },
+  {
+    "image_file": "test/image/06543_00.jpg",
+    "cloth_file": "test/cloth/06543_00.jpg"
+  },
+  {
+    "image_file": "test/image/01936_00.jpg",
+    "cloth_file": "test/cloth/01936_00.jpg"
+  },
+  {
+    "image_file": "test/image/13260_00.jpg",
+    "cloth_file": "test/cloth/13260_00.jpg"
+  },
+  {
+    "image_file": "test/image/02463_00.jpg",
+    "cloth_file": "test/cloth/02463_00.jpg"
+  },
+  {
+    "image_file": "test/image/12233_00.jpg",
+    "cloth_file": "test/cloth/12233_00.jpg"
+  },
+  {
+    "image_file": "test/image/06753_00.jpg",
+    "cloth_file": "test/cloth/06753_00.jpg"
+  },
+  {
+    "image_file": "test/image/03412_00.jpg",
+    "cloth_file": "test/cloth/03412_00.jpg"
+  },
+  {
+    "image_file": "test/image/01057_00.jpg",
+    "cloth_file": "test/cloth/01057_00.jpg"
+  },
+  {
+    "image_file": "test/image/06466_00.jpg",
+    "cloth_file": "test/cloth/06466_00.jpg"
+  },
+  {
+    "image_file": "test/image/11709_00.jpg",
+    "cloth_file": "test/cloth/11709_00.jpg"
+  },
+  {
+    "image_file": "test/image/07956_00.jpg",
+    "cloth_file": "test/cloth/07956_00.jpg"
+  },
+  {
+    "image_file": "test/image/01352_00.jpg",
+    "cloth_file": "test/cloth/01352_00.jpg"
+  },
+  {
+    "image_file": "test/image/00760_00.jpg",
+    "cloth_file": "test/cloth/00760_00.jpg"
+  },
+  {
+    "image_file": "test/image/09396_00.jpg",
+    "cloth_file": "test/cloth/09396_00.jpg"
+  },
+  {
+    "image_file": "test/image/07847_00.jpg",
+    "cloth_file": "test/cloth/07847_00.jpg"
+  },
+  {
+    "image_file": "test/image/00249_00.jpg",
+    "cloth_file": "test/cloth/00249_00.jpg"
+  },
+  {
+    "image_file": "test/image/14547_00.jpg",
+    "cloth_file": "test/cloth/14547_00.jpg"
+  },
+  {
+    "image_file": "test/image/10839_00.jpg",
+    "cloth_file": "test/cloth/10839_00.jpg"
+  },
+  {
+    "image_file": "test/image/03199_00.jpg",
+    "cloth_file": "test/cloth/03199_00.jpg"
+  },
+  {
+    "image_file": "test/image/02208_00.jpg",
+    "cloth_file": "test/cloth/02208_00.jpg"
+  },
+  {
+    "image_file": "test/image/05976_00.jpg",
+    "cloth_file": "test/cloth/05976_00.jpg"
+  },
+  {
+    "image_file": "test/image/12220_00.jpg",
+    "cloth_file": "test/cloth/12220_00.jpg"
+  },
+  {
+    "image_file": "test/image/07005_00.jpg",
+    "cloth_file": "test/cloth/07005_00.jpg"
+  },
+  {
+    "image_file": "test/image/02915_00.jpg",
+    "cloth_file": "test/cloth/02915_00.jpg"
+  },
+  {
+    "image_file": "test/image/13601_00.jpg",
+    "cloth_file": "test/cloth/13601_00.jpg"
+  },
+  {
+    "image_file": "test/image/14196_00.jpg",
+    "cloth_file": "test/cloth/14196_00.jpg"
+  },
+  {
+    "image_file": "test/image/02196_00.jpg",
+    "cloth_file": "test/cloth/02196_00.jpg"
+  },
+  {
+    "image_file": "test/image/05520_00.jpg",
+    "cloth_file": "test/cloth/05520_00.jpg"
+  },
+  {
+    "image_file": "test/image/00034_00.jpg",
+    "cloth_file": "test/cloth/00034_00.jpg"
+  },
+  {
+    "image_file": "test/image/05682_00.jpg",
+    "cloth_file": "test/cloth/05682_00.jpg"
+  },
+  {
+    "image_file": "test/image/03641_00.jpg",
+    "cloth_file": "test/cloth/03641_00.jpg"
+  },
+  {
+    "image_file": "test/image/11373_00.jpg",
+    "cloth_file": "test/cloth/11373_00.jpg"
+  },
+  {
+    "image_file": "test/image/11390_00.jpg",
+    "cloth_file": "test/cloth/11390_00.jpg"
+  },
+  {
+    "image_file": "test/image/06653_00.jpg",
+    "cloth_file": "test/cloth/06653_00.jpg"
+  },
+  {
+    "image_file": "test/image/03984_00.jpg",
+    "cloth_file": "test/cloth/03984_00.jpg"
+  },
+  {
+    "image_file": "test/image/12534_00.jpg",
+    "cloth_file": "test/cloth/12534_00.jpg"
+  },
+  {
+    "image_file": "test/image/10019_00.jpg",
+    "cloth_file": "test/cloth/10019_00.jpg"
+  },
+  {
+    "image_file": "test/image/10532_00.jpg",
+    "cloth_file": "test/cloth/10532_00.jpg"
+  },
+  {
+    "image_file": "test/image/11372_00.jpg",
+    "cloth_file": "test/cloth/11372_00.jpg"
+  },
+  {
+    "image_file": "test/image/08021_00.jpg",
+    "cloth_file": "test/cloth/08021_00.jpg"
+  },
+  {
+    "image_file": "test/image/09541_00.jpg",
+    "cloth_file": "test/cloth/09541_00.jpg"
+  },
+  {
+    "image_file": "test/image/10380_00.jpg",
+    "cloth_file": "test/cloth/10380_00.jpg"
+  },
+  {
+    "image_file": "test/image/07089_00.jpg",
+    "cloth_file": "test/cloth/07089_00.jpg"
+  },
+  {
+    "image_file": "test/image/02064_00.jpg",
+    "cloth_file": "test/cloth/02064_00.jpg"
+  },
+  {
+    "image_file": "test/image/02594_00.jpg",
+    "cloth_file": "test/cloth/02594_00.jpg"
+  },
+  {
+    "image_file": "test/image/04215_00.jpg",
+    "cloth_file": "test/cloth/04215_00.jpg"
+  },
+  {
+    "image_file": "test/image/02964_00.jpg",
+    "cloth_file": "test/cloth/02964_00.jpg"
+  },
+  {
+    "image_file": "test/image/00859_00.jpg",
+    "cloth_file": "test/cloth/00859_00.jpg"
+  },
+  {
+    "image_file": "test/image/08316_00.jpg",
+    "cloth_file": "test/cloth/08316_00.jpg"
+  },
+  {
+    "image_file": "test/image/10635_00.jpg",
+    "cloth_file": "test/cloth/10635_00.jpg"
+  },
+  {
+    "image_file": "test/image/07874_00.jpg",
+    "cloth_file": "test/cloth/07874_00.jpg"
+  },
+  {
+    "image_file": "test/image/11993_00.jpg",
+    "cloth_file": "test/cloth/11993_00.jpg"
+  },
+  {
+    "image_file": "test/image/10778_00.jpg",
+    "cloth_file": "test/cloth/10778_00.jpg"
+  },
+  {
+    "image_file": "test/image/04518_00.jpg",
+    "cloth_file": "test/cloth/04518_00.jpg"
+  },
+  {
+    "image_file": "test/image/00852_00.jpg",
+    "cloth_file": "test/cloth/00852_00.jpg"
+  },
+  {
+    "image_file": "test/image/00740_00.jpg",
+    "cloth_file": "test/cloth/00740_00.jpg"
+  },
+  {
+    "image_file": "test/image/08376_00.jpg",
+    "cloth_file": "test/cloth/08376_00.jpg"
+  },
+  {
+    "image_file": "test/image/06956_00.jpg",
+    "cloth_file": "test/cloth/06956_00.jpg"
+  },
+  {
+    "image_file": "test/image/07272_00.jpg",
+    "cloth_file": "test/cloth/07272_00.jpg"
+  },
+  {
+    "image_file": "test/image/07707_00.jpg",
+    "cloth_file": "test/cloth/07707_00.jpg"
+  },
+  {
+    "image_file": "test/image/02093_00.jpg",
+    "cloth_file": "test/cloth/02093_00.jpg"
+  },
+  {
+    "image_file": "test/image/00848_00.jpg",
+    "cloth_file": "test/cloth/00848_00.jpg"
+  },
+  {
+    "image_file": "test/image/07353_00.jpg",
+    "cloth_file": "test/cloth/07353_00.jpg"
+  },
+  {
+    "image_file": "test/image/01149_00.jpg",
+    "cloth_file": "test/cloth/01149_00.jpg"
+  },
+  {
+    "image_file": "test/image/02527_00.jpg",
+    "cloth_file": "test/cloth/02527_00.jpg"
+  },
+  {
+    "image_file": "test/image/00989_00.jpg",
+    "cloth_file": "test/cloth/00989_00.jpg"
+  },
+  {
+    "image_file": "test/image/08566_00.jpg",
+    "cloth_file": "test/cloth/08566_00.jpg"
+  },
+  {
+    "image_file": "test/image/00986_00.jpg",
+    "cloth_file": "test/cloth/00986_00.jpg"
+  },
+  {
+    "image_file": "test/image/09744_00.jpg",
+    "cloth_file": "test/cloth/09744_00.jpg"
+  },
+  {
+    "image_file": "test/image/03186_00.jpg",
+    "cloth_file": "test/cloth/03186_00.jpg"
+  },
+  {
+    "image_file": "test/image/05942_00.jpg",
+    "cloth_file": "test/cloth/05942_00.jpg"
+  },
+  {
+    "image_file": "test/image/01656_00.jpg",
+    "cloth_file": "test/cloth/01656_00.jpg"
+  },
+  {
+    "image_file": "test/image/08230_00.jpg",
+    "cloth_file": "test/cloth/08230_00.jpg"
+  },
+  {
+    "image_file": "test/image/03374_00.jpg",
+    "cloth_file": "test/cloth/03374_00.jpg"
+  },
+  {
+    "image_file": "test/image/08314_00.jpg",
+    "cloth_file": "test/cloth/08314_00.jpg"
+  },
+  {
+    "image_file": "test/image/08563_00.jpg",
+    "cloth_file": "test/cloth/08563_00.jpg"
+  },
+  {
+    "image_file": "test/image/00617_00.jpg",
+    "cloth_file": "test/cloth/00617_00.jpg"
+  },
+  {
+    "image_file": "test/image/08907_00.jpg",
+    "cloth_file": "test/cloth/08907_00.jpg"
+  },
+  {
+    "image_file": "test/image/01161_00.jpg",
+    "cloth_file": "test/cloth/01161_00.jpg"
+  },
+  {
+    "image_file": "test/image/06128_00.jpg",
+    "cloth_file": "test/cloth/06128_00.jpg"
+  },
+  {
+    "image_file": "test/image/09493_00.jpg",
+    "cloth_file": "test/cloth/09493_00.jpg"
+  },
+  {
+    "image_file": "test/image/13383_00.jpg",
+    "cloth_file": "test/cloth/13383_00.jpg"
+  },
+  {
+    "image_file": "test/image/08164_00.jpg",
+    "cloth_file": "test/cloth/08164_00.jpg"
+  },
+  {
+    "image_file": "test/image/07544_00.jpg",
+    "cloth_file": "test/cloth/07544_00.jpg"
+  },
+  {
+    "image_file": "test/image/04559_00.jpg",
+    "cloth_file": "test/cloth/04559_00.jpg"
+  },
+  {
+    "image_file": "test/image/03597_00.jpg",
+    "cloth_file": "test/cloth/03597_00.jpg"
+  },
+  {
+    "image_file": "test/image/02790_00.jpg",
+    "cloth_file": "test/cloth/02790_00.jpg"
+  },
+  {
+    "image_file": "test/image/09659_00.jpg",
+    "cloth_file": "test/cloth/09659_00.jpg"
+  },
+  {
+    "image_file": "test/image/14481_00.jpg",
+    "cloth_file": "test/cloth/14481_00.jpg"
+  },
+  {
+    "image_file": "test/image/04523_00.jpg",
+    "cloth_file": "test/cloth/04523_00.jpg"
+  },
+  {
+    "image_file": "test/image/03247_00.jpg",
+    "cloth_file": "test/cloth/03247_00.jpg"
+  },
+  {
+    "image_file": "test/image/14397_00.jpg",
+    "cloth_file": "test/cloth/14397_00.jpg"
+  },
+  {
+    "image_file": "test/image/13526_00.jpg",
+    "cloth_file": "test/cloth/13526_00.jpg"
+  },
+  {
+    "image_file": "test/image/01815_00.jpg",
+    "cloth_file": "test/cloth/01815_00.jpg"
+  },
+  {
+    "image_file": "test/image/12451_00.jpg",
+    "cloth_file": "test/cloth/12451_00.jpg"
+  },
+  {
+    "image_file": "test/image/09264_00.jpg",
+    "cloth_file": "test/cloth/09264_00.jpg"
+  },
+  {
+    "image_file": "test/image/04293_00.jpg",
+    "cloth_file": "test/cloth/04293_00.jpg"
+  },
+  {
+    "image_file": "test/image/06677_00.jpg",
+    "cloth_file": "test/cloth/06677_00.jpg"
+  },
+  {
+    "image_file": "test/image/11366_00.jpg",
+    "cloth_file": "test/cloth/11366_00.jpg"
+  },
+  {
+    "image_file": "test/image/10829_00.jpg",
+    "cloth_file": "test/cloth/10829_00.jpg"
+  },
+  {
+    "image_file": "test/image/01035_00.jpg",
+    "cloth_file": "test/cloth/01035_00.jpg"
+  },
+  {
+    "image_file": "test/image/00112_00.jpg",
+    "cloth_file": "test/cloth/00112_00.jpg"
+  },
+  {
+    "image_file": "test/image/06683_00.jpg",
+    "cloth_file": "test/cloth/06683_00.jpg"
+  },
+  {
+    "image_file": "test/image/08943_00.jpg",
+    "cloth_file": "test/cloth/08943_00.jpg"
+  },
+  {
+    "image_file": "test/image/08143_00.jpg",
+    "cloth_file": "test/cloth/08143_00.jpg"
+  },
+  {
+    "image_file": "test/image/01386_00.jpg",
+    "cloth_file": "test/cloth/01386_00.jpg"
+  },
+  {
+    "image_file": "test/image/01046_00.jpg",
+    "cloth_file": "test/cloth/01046_00.jpg"
+  },
+  {
+    "image_file": "test/image/07796_00.jpg",
+    "cloth_file": "test/cloth/07796_00.jpg"
+  },
+  {
+    "image_file": "test/image/02914_00.jpg",
+    "cloth_file": "test/cloth/02914_00.jpg"
+  },
+  {
+    "image_file": "test/image/07331_00.jpg",
+    "cloth_file": "test/cloth/07331_00.jpg"
+  },
+  {
+    "image_file": "test/image/11309_00.jpg",
+    "cloth_file": "test/cloth/11309_00.jpg"
+  },
+  {
+    "image_file": "test/image/01839_00.jpg",
+    "cloth_file": "test/cloth/01839_00.jpg"
+  },
+  {
+    "image_file": "test/image/05032_00.jpg",
+    "cloth_file": "test/cloth/05032_00.jpg"
+  },
+  {
+    "image_file": "test/image/13289_00.jpg",
+    "cloth_file": "test/cloth/13289_00.jpg"
+  },
+  {
+    "image_file": "test/image/03316_00.jpg",
+    "cloth_file": "test/cloth/03316_00.jpg"
+  },
+  {
+    "image_file": "test/image/05346_00.jpg",
+    "cloth_file": "test/cloth/05346_00.jpg"
+  },
+  {
+    "image_file": "test/image/03975_00.jpg",
+    "cloth_file": "test/cloth/03975_00.jpg"
+  },
+  {
+    "image_file": "test/image/13015_00.jpg",
+    "cloth_file": "test/cloth/13015_00.jpg"
+  },
+  {
+    "image_file": "test/image/12404_00.jpg",
+    "cloth_file": "test/cloth/12404_00.jpg"
+  },
+  {
+    "image_file": "test/image/07884_00.jpg",
+    "cloth_file": "test/cloth/07884_00.jpg"
+  },
+  {
+    "image_file": "test/image/10126_00.jpg",
+    "cloth_file": "test/cloth/10126_00.jpg"
+  },
+  {
+    "image_file": "test/image/04318_00.jpg",
+    "cloth_file": "test/cloth/04318_00.jpg"
+  },
+  {
+    "image_file": "test/image/08836_00.jpg",
+    "cloth_file": "test/cloth/08836_00.jpg"
+  },
+  {
+    "image_file": "test/image/09435_00.jpg",
+    "cloth_file": "test/cloth/09435_00.jpg"
+  },
+  {
+    "image_file": "test/image/13198_00.jpg",
+    "cloth_file": "test/cloth/13198_00.jpg"
+  },
+  {
+    "image_file": "test/image/00095_00.jpg",
+    "cloth_file": "test/cloth/00095_00.jpg"
+  },
+  {
+    "image_file": "test/image/09631_00.jpg",
+    "cloth_file": "test/cloth/09631_00.jpg"
+  },
+  {
+    "image_file": "test/image/07980_00.jpg",
+    "cloth_file": "test/cloth/07980_00.jpg"
+  },
+  {
+    "image_file": "test/image/04290_00.jpg",
+    "cloth_file": "test/cloth/04290_00.jpg"
+  },
+  {
+    "image_file": "test/image/09555_00.jpg",
+    "cloth_file": "test/cloth/09555_00.jpg"
+  },
+  {
+    "image_file": "test/image/01428_00.jpg",
+    "cloth_file": "test/cloth/01428_00.jpg"
+  },
+  {
+    "image_file": "test/image/01858_00.jpg",
+    "cloth_file": "test/cloth/01858_00.jpg"
+  },
+  {
+    "image_file": "test/image/14188_00.jpg",
+    "cloth_file": "test/cloth/14188_00.jpg"
+  },
+  {
+    "image_file": "test/image/01615_00.jpg",
+    "cloth_file": "test/cloth/01615_00.jpg"
+  },
+  {
+    "image_file": "test/image/01463_00.jpg",
+    "cloth_file": "test/cloth/01463_00.jpg"
+  },
+  {
+    "image_file": "test/image/10706_00.jpg",
+    "cloth_file": "test/cloth/10706_00.jpg"
+  },
+  {
+    "image_file": "test/image/13175_00.jpg",
+    "cloth_file": "test/cloth/13175_00.jpg"
+  },
+  {
+    "image_file": "test/image/14274_00.jpg",
+    "cloth_file": "test/cloth/14274_00.jpg"
+  },
+  {
+    "image_file": "test/image/03745_00.jpg",
+    "cloth_file": "test/cloth/03745_00.jpg"
+  },
+  {
+    "image_file": "test/image/03935_00.jpg",
+    "cloth_file": "test/cloth/03935_00.jpg"
+  },
+  {
+    "image_file": "test/image/08694_00.jpg",
+    "cloth_file": "test/cloth/08694_00.jpg"
+  },
+  {
+    "image_file": "test/image/02887_00.jpg",
+    "cloth_file": "test/cloth/02887_00.jpg"
+  },
+  {
+    "image_file": "test/image/10371_00.jpg",
+    "cloth_file": "test/cloth/10371_00.jpg"
+  },
+  {
+    "image_file": "test/image/04931_00.jpg",
+    "cloth_file": "test/cloth/04931_00.jpg"
+  },
+  {
+    "image_file": "test/image/02783_00.jpg",
+    "cloth_file": "test/cloth/02783_00.jpg"
+  },
+  {
+    "image_file": "test/image/09890_00.jpg",
+    "cloth_file": "test/cloth/09890_00.jpg"
+  },
+  {
+    "image_file": "test/image/09148_00.jpg",
+    "cloth_file": "test/cloth/09148_00.jpg"
+  },
+  {
+    "image_file": "test/image/03620_00.jpg",
+    "cloth_file": "test/cloth/03620_00.jpg"
+  },
+  {
+    "image_file": "test/image/07319_00.jpg",
+    "cloth_file": "test/cloth/07319_00.jpg"
+  },
+  {
+    "image_file": "test/image/12749_00.jpg",
+    "cloth_file": "test/cloth/12749_00.jpg"
+  },
+  {
+    "image_file": "test/image/13196_00.jpg",
+    "cloth_file": "test/cloth/13196_00.jpg"
+  },
+  {
+    "image_file": "test/image/00765_00.jpg",
+    "cloth_file": "test/cloth/00765_00.jpg"
+  },
+  {
+    "image_file": "test/image/14227_00.jpg",
+    "cloth_file": "test/cloth/14227_00.jpg"
+  },
+  {
+    "image_file": "test/image/09149_00.jpg",
+    "cloth_file": "test/cloth/09149_00.jpg"
+  },
+  {
+    "image_file": "test/image/12065_00.jpg",
+    "cloth_file": "test/cloth/12065_00.jpg"
+  },
+  {
+    "image_file": "test/image/03867_00.jpg",
+    "cloth_file": "test/cloth/03867_00.jpg"
+  }
+]

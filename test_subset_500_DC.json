@@ -1,0 +1,2502 @@
+[
+  {
+    "image_file": "053630_0.jpg",
+    "cloth_file": "053630_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049304_0.jpg",
+    "cloth_file": "049304_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048596_0.jpg",
+    "cloth_file": "048596_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050645_0.jpg",
+    "cloth_file": "050645_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050398_0.jpg",
+    "cloth_file": "050398_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050220_0.jpg",
+    "cloth_file": "050220_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049535_0.jpg",
+    "cloth_file": "049535_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049231_0.jpg",
+    "cloth_file": "049231_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052859_0.jpg",
+    "cloth_file": "052859_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049104_0.jpg",
+    "cloth_file": "049104_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053229_0.jpg",
+    "cloth_file": "053229_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051848_0.jpg",
+    "cloth_file": "051848_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048652_0.jpg",
+    "cloth_file": "048652_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048636_0.jpg",
+    "cloth_file": "048636_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049159_0.jpg",
+    "cloth_file": "049159_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050183_0.jpg",
+    "cloth_file": "050183_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050297_0.jpg",
+    "cloth_file": "050297_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052531_0.jpg",
+    "cloth_file": "052531_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053323_0.jpg",
+    "cloth_file": "053323_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048609_0.jpg",
+    "cloth_file": "048609_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052989_0.jpg",
+    "cloth_file": "052989_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050020_0.jpg",
+    "cloth_file": "050020_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053715_0.jpg",
+    "cloth_file": "053715_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052856_0.jpg",
+    "cloth_file": "052856_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051828_0.jpg",
+    "cloth_file": "051828_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050197_0.jpg",
+    "cloth_file": "050197_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052071_0.jpg",
+    "cloth_file": "052071_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053219_0.jpg",
+    "cloth_file": "053219_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050670_0.jpg",
+    "cloth_file": "050670_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048445_0.jpg",
+    "cloth_file": "048445_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049699_0.jpg",
+    "cloth_file": "049699_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051854_0.jpg",
+    "cloth_file": "051854_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051179_0.jpg",
+    "cloth_file": "051179_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050668_0.jpg",
+    "cloth_file": "050668_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049665_0.jpg",
+    "cloth_file": "049665_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050155_0.jpg",
+    "cloth_file": "050155_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051149_0.jpg",
+    "cloth_file": "051149_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049229_0.jpg",
+    "cloth_file": "049229_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049151_0.jpg",
+    "cloth_file": "049151_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051504_0.jpg",
+    "cloth_file": "051504_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049184_0.jpg",
+    "cloth_file": "049184_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051332_0.jpg",
+    "cloth_file": "051332_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051209_0.jpg",
+    "cloth_file": "051209_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053337_0.jpg",
+    "cloth_file": "053337_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050558_0.jpg",
+    "cloth_file": "050558_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048747_0.jpg",
+    "cloth_file": "048747_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052155_0.jpg",
+    "cloth_file": "052155_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052784_0.jpg",
+    "cloth_file": "052784_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049414_0.jpg",
+    "cloth_file": "049414_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051492_0.jpg",
+    "cloth_file": "051492_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049037_0.jpg",
+    "cloth_file": "049037_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052914_0.jpg",
+    "cloth_file": "052914_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050793_0.jpg",
+    "cloth_file": "050793_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053541_0.jpg",
+    "cloth_file": "053541_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053458_0.jpg",
+    "cloth_file": "053458_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051354_0.jpg",
+    "cloth_file": "051354_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053121_0.jpg",
+    "cloth_file": "053121_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049967_0.jpg",
+    "cloth_file": "049967_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048961_0.jpg",
+    "cloth_file": "048961_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048767_0.jpg",
+    "cloth_file": "048767_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050258_0.jpg",
+    "cloth_file": "050258_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050762_0.jpg",
+    "cloth_file": "050762_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049045_0.jpg",
+    "cloth_file": "049045_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050299_0.jpg",
+    "cloth_file": "050299_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049219_0.jpg",
+    "cloth_file": "049219_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051505_0.jpg",
+    "cloth_file": "051505_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050669_0.jpg",
+    "cloth_file": "050669_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052106_0.jpg",
+    "cloth_file": "052106_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053599_0.jpg",
+    "cloth_file": "053599_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051380_0.jpg",
+    "cloth_file": "051380_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049724_0.jpg",
+    "cloth_file": "049724_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051424_0.jpg",
+    "cloth_file": "051424_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051302_0.jpg",
+    "cloth_file": "051302_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050108_0.jpg",
+    "cloth_file": "050108_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050579_0.jpg",
+    "cloth_file": "050579_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053700_0.jpg",
+    "cloth_file": "053700_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048976_0.jpg",
+    "cloth_file": "048976_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053382_0.jpg",
+    "cloth_file": "053382_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053593_0.jpg",
+    "cloth_file": "053593_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049793_0.jpg",
+    "cloth_file": "049793_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052767_0.jpg",
+    "cloth_file": "052767_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050397_0.jpg",
+    "cloth_file": "050397_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049730_0.jpg",
+    "cloth_file": "049730_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052178_0.jpg",
+    "cloth_file": "052178_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051500_0.jpg",
+    "cloth_file": "051500_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050603_0.jpg",
+    "cloth_file": "050603_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053634_0.jpg",
+    "cloth_file": "053634_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052954_0.jpg",
+    "cloth_file": "052954_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050191_0.jpg",
+    "cloth_file": "050191_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051048_0.jpg",
+    "cloth_file": "051048_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048850_0.jpg",
+    "cloth_file": "048850_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050268_0.jpg",
+    "cloth_file": "050268_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048654_0.jpg",
+    "cloth_file": "048654_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050976_0.jpg",
+    "cloth_file": "050976_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051678_0.jpg",
+    "cloth_file": "051678_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050585_0.jpg",
+    "cloth_file": "050585_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048934_0.jpg",
+    "cloth_file": "048934_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050120_0.jpg",
+    "cloth_file": "050120_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053038_0.jpg",
+    "cloth_file": "053038_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050969_0.jpg",
+    "cloth_file": "050969_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050133_0.jpg",
+    "cloth_file": "050133_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053761_0.jpg",
+    "cloth_file": "053761_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052481_0.jpg",
+    "cloth_file": "052481_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051633_0.jpg",
+    "cloth_file": "051633_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053658_0.jpg",
+    "cloth_file": "053658_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052150_0.jpg",
+    "cloth_file": "052150_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049562_0.jpg",
+    "cloth_file": "049562_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050561_0.jpg",
+    "cloth_file": "050561_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050412_0.jpg",
+    "cloth_file": "050412_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052990_0.jpg",
+    "cloth_file": "052990_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052807_0.jpg",
+    "cloth_file": "052807_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050544_0.jpg",
+    "cloth_file": "050544_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053180_0.jpg",
+    "cloth_file": "053180_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051901_0.jpg",
+    "cloth_file": "051901_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053172_0.jpg",
+    "cloth_file": "053172_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051663_0.jpg",
+    "cloth_file": "051663_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051357_0.jpg",
+    "cloth_file": "051357_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050188_0.jpg",
+    "cloth_file": "050188_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049525_0.jpg",
+    "cloth_file": "049525_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052566_0.jpg",
+    "cloth_file": "052566_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052434_0.jpg",
+    "cloth_file": "052434_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049136_0.jpg",
+    "cloth_file": "049136_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048777_0.jpg",
+    "cloth_file": "048777_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049290_0.jpg",
+    "cloth_file": "049290_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049644_0.jpg",
+    "cloth_file": "049644_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053532_0.jpg",
+    "cloth_file": "053532_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049702_0.jpg",
+    "cloth_file": "049702_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051850_0.jpg",
+    "cloth_file": "051850_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053277_0.jpg",
+    "cloth_file": "053277_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048912_0.jpg",
+    "cloth_file": "048912_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051544_0.jpg",
+    "cloth_file": "051544_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051518_0.jpg",
+    "cloth_file": "051518_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053273_0.jpg",
+    "cloth_file": "053273_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052226_0.jpg",
+    "cloth_file": "052226_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052726_0.jpg",
+    "cloth_file": "052726_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050451_0.jpg",
+    "cloth_file": "050451_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052924_0.jpg",
+    "cloth_file": "052924_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048486_0.jpg",
+    "cloth_file": "048486_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049330_0.jpg",
+    "cloth_file": "049330_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052790_0.jpg",
+    "cloth_file": "052790_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050577_0.jpg",
+    "cloth_file": "050577_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053642_0.jpg",
+    "cloth_file": "053642_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051178_0.jpg",
+    "cloth_file": "051178_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049305_0.jpg",
+    "cloth_file": "049305_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050796_0.jpg",
+    "cloth_file": "050796_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051953_0.jpg",
+    "cloth_file": "051953_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049687_0.jpg",
+    "cloth_file": "049687_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052108_0.jpg",
+    "cloth_file": "052108_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048418_0.jpg",
+    "cloth_file": "048418_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050549_0.jpg",
+    "cloth_file": "050549_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052492_0.jpg",
+    "cloth_file": "052492_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049855_0.jpg",
+    "cloth_file": "049855_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052550_0.jpg",
+    "cloth_file": "052550_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049263_0.jpg",
+    "cloth_file": "049263_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053514_0.jpg",
+    "cloth_file": "053514_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050836_0.jpg",
+    "cloth_file": "050836_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053626_0.jpg",
+    "cloth_file": "053626_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053380_0.jpg",
+    "cloth_file": "053380_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050021_0.jpg",
+    "cloth_file": "050021_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051455_0.jpg",
+    "cloth_file": "051455_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049715_0.jpg",
+    "cloth_file": "049715_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052810_0.jpg",
+    "cloth_file": "052810_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052736_0.jpg",
+    "cloth_file": "052736_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048396_0.jpg",
+    "cloth_file": "048396_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053298_0.jpg",
+    "cloth_file": "053298_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051047_0.jpg",
+    "cloth_file": "051047_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052394_0.jpg",
+    "cloth_file": "052394_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048551_0.jpg",
+    "cloth_file": "048551_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049308_0.jpg",
+    "cloth_file": "049308_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051365_0.jpg",
+    "cloth_file": "051365_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050911_0.jpg",
+    "cloth_file": "050911_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050353_0.jpg",
+    "cloth_file": "050353_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048866_0.jpg",
+    "cloth_file": "048866_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050365_0.jpg",
+    "cloth_file": "050365_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053039_0.jpg",
+    "cloth_file": "053039_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049093_0.jpg",
+    "cloth_file": "049093_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052373_0.jpg",
+    "cloth_file": "052373_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048958_0.jpg",
+    "cloth_file": "048958_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052755_0.jpg",
+    "cloth_file": "052755_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049422_0.jpg",
+    "cloth_file": "049422_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049443_0.jpg",
+    "cloth_file": "049443_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052285_0.jpg",
+    "cloth_file": "052285_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052895_0.jpg",
+    "cloth_file": "052895_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049744_0.jpg",
+    "cloth_file": "049744_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050563_0.jpg",
+    "cloth_file": "050563_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052714_0.jpg",
+    "cloth_file": "052714_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053361_0.jpg",
+    "cloth_file": "053361_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051858_0.jpg",
+    "cloth_file": "051858_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050127_0.jpg",
+    "cloth_file": "050127_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052809_0.jpg",
+    "cloth_file": "052809_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050039_0.jpg",
+    "cloth_file": "050039_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050945_0.jpg",
+    "cloth_file": "050945_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051660_0.jpg",
+    "cloth_file": "051660_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051451_0.jpg",
+    "cloth_file": "051451_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051980_0.jpg",
+    "cloth_file": "051980_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052631_0.jpg",
+    "cloth_file": "052631_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052090_0.jpg",
+    "cloth_file": "052090_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049383_0.jpg",
+    "cloth_file": "049383_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050422_0.jpg",
+    "cloth_file": "050422_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050232_0.jpg",
+    "cloth_file": "050232_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048916_0.jpg",
+    "cloth_file": "048916_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051161_0.jpg",
+    "cloth_file": "051161_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048564_0.jpg",
+    "cloth_file": "048564_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053211_0.jpg",
+    "cloth_file": "053211_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052929_0.jpg",
+    "cloth_file": "052929_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050277_0.jpg",
+    "cloth_file": "050277_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053212_0.jpg",
+    "cloth_file": "053212_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050196_0.jpg",
+    "cloth_file": "050196_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048450_0.jpg",
+    "cloth_file": "048450_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048973_0.jpg",
+    "cloth_file": "048973_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053561_0.jpg",
+    "cloth_file": "053561_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048874_0.jpg",
+    "cloth_file": "048874_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050267_0.jpg",
+    "cloth_file": "050267_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048944_0.jpg",
+    "cloth_file": "048944_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048649_0.jpg",
+    "cloth_file": "048649_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051098_0.jpg",
+    "cloth_file": "051098_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048972_0.jpg",
+    "cloth_file": "048972_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052603_0.jpg",
+    "cloth_file": "052603_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050341_0.jpg",
+    "cloth_file": "050341_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050673_0.jpg",
+    "cloth_file": "050673_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052368_0.jpg",
+    "cloth_file": "052368_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050147_0.jpg",
+    "cloth_file": "050147_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049475_0.jpg",
+    "cloth_file": "049475_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053069_0.jpg",
+    "cloth_file": "053069_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053112_0.jpg",
+    "cloth_file": "053112_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052264_0.jpg",
+    "cloth_file": "052264_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050382_0.jpg",
+    "cloth_file": "050382_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052266_0.jpg",
+    "cloth_file": "052266_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051726_0.jpg",
+    "cloth_file": "051726_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049951_0.jpg",
+    "cloth_file": "049951_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049164_0.jpg",
+    "cloth_file": "049164_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049186_0.jpg",
+    "cloth_file": "049186_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053790_0.jpg",
+    "cloth_file": "053790_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051923_0.jpg",
+    "cloth_file": "051923_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051294_0.jpg",
+    "cloth_file": "051294_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051861_0.jpg",
+    "cloth_file": "051861_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051759_0.jpg",
+    "cloth_file": "051759_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052217_0.jpg",
+    "cloth_file": "052217_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048835_0.jpg",
+    "cloth_file": "048835_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053745_0.jpg",
+    "cloth_file": "053745_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053685_0.jpg",
+    "cloth_file": "053685_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049198_0.jpg",
+    "cloth_file": "049198_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048888_0.jpg",
+    "cloth_file": "048888_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051690_0.jpg",
+    "cloth_file": "051690_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051171_0.jpg",
+    "cloth_file": "051171_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049287_0.jpg",
+    "cloth_file": "049287_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050428_0.jpg",
+    "cloth_file": "050428_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049961_0.jpg",
+    "cloth_file": "049961_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049950_0.jpg",
+    "cloth_file": "049950_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052785_0.jpg",
+    "cloth_file": "052785_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052067_0.jpg",
+    "cloth_file": "052067_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049540_0.jpg",
+    "cloth_file": "049540_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049895_0.jpg",
+    "cloth_file": "049895_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052181_0.jpg",
+    "cloth_file": "052181_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050438_0.jpg",
+    "cloth_file": "050438_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049009_0.jpg",
+    "cloth_file": "049009_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052022_0.jpg",
+    "cloth_file": "052022_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052900_0.jpg",
+    "cloth_file": "052900_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049194_0.jpg",
+    "cloth_file": "049194_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048806_0.jpg",
+    "cloth_file": "048806_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053734_0.jpg",
+    "cloth_file": "053734_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052820_0.jpg",
+    "cloth_file": "052820_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048512_0.jpg",
+    "cloth_file": "048512_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049156_0.jpg",
+    "cloth_file": "049156_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050328_0.jpg",
+    "cloth_file": "050328_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049754_0.jpg",
+    "cloth_file": "049754_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051721_0.jpg",
+    "cloth_file": "051721_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052370_0.jpg",
+    "cloth_file": "052370_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052335_0.jpg",
+    "cloth_file": "052335_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050143_0.jpg",
+    "cloth_file": "050143_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051677_0.jpg",
+    "cloth_file": "051677_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048872_0.jpg",
+    "cloth_file": "048872_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049740_0.jpg",
+    "cloth_file": "049740_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051496_0.jpg",
+    "cloth_file": "051496_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048409_0.jpg",
+    "cloth_file": "048409_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051590_0.jpg",
+    "cloth_file": "051590_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050564_0.jpg",
+    "cloth_file": "050564_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052119_0.jpg",
+    "cloth_file": "052119_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050728_0.jpg",
+    "cloth_file": "050728_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051857_0.jpg",
+    "cloth_file": "051857_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052944_0.jpg",
+    "cloth_file": "052944_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052378_0.jpg",
+    "cloth_file": "052378_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049660_0.jpg",
+    "cloth_file": "049660_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049947_0.jpg",
+    "cloth_file": "049947_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050822_0.jpg",
+    "cloth_file": "050822_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050175_0.jpg",
+    "cloth_file": "050175_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048871_0.jpg",
+    "cloth_file": "048871_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053136_0.jpg",
+    "cloth_file": "053136_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052833_0.jpg",
+    "cloth_file": "052833_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048891_0.jpg",
+    "cloth_file": "048891_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050961_0.jpg",
+    "cloth_file": "050961_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048860_0.jpg",
+    "cloth_file": "048860_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048802_0.jpg",
+    "cloth_file": "048802_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053177_0.jpg",
+    "cloth_file": "053177_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052297_0.jpg",
+    "cloth_file": "052297_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052511_0.jpg",
+    "cloth_file": "052511_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052742_0.jpg",
+    "cloth_file": "052742_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049681_0.jpg",
+    "cloth_file": "049681_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048857_0.jpg",
+    "cloth_file": "048857_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052552_0.jpg",
+    "cloth_file": "052552_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049048_0.jpg",
+    "cloth_file": "049048_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049914_0.jpg",
+    "cloth_file": "049914_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048953_0.jpg",
+    "cloth_file": "048953_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053266_0.jpg",
+    "cloth_file": "053266_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048948_0.jpg",
+    "cloth_file": "048948_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050318_0.jpg",
+    "cloth_file": "050318_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051699_0.jpg",
+    "cloth_file": "051699_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049374_0.jpg",
+    "cloth_file": "049374_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053058_0.jpg",
+    "cloth_file": "053058_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050408_0.jpg",
+    "cloth_file": "050408_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053134_0.jpg",
+    "cloth_file": "053134_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053262_0.jpg",
+    "cloth_file": "053262_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048717_0.jpg",
+    "cloth_file": "048717_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053465_0.jpg",
+    "cloth_file": "053465_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049063_0.jpg",
+    "cloth_file": "049063_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051826_0.jpg",
+    "cloth_file": "051826_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053777_0.jpg",
+    "cloth_file": "053777_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053173_0.jpg",
+    "cloth_file": "053173_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053022_0.jpg",
+    "cloth_file": "053022_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052674_0.jpg",
+    "cloth_file": "052674_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050983_0.jpg",
+    "cloth_file": "050983_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050528_0.jpg",
+    "cloth_file": "050528_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050065_0.jpg",
+    "cloth_file": "050065_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050965_0.jpg",
+    "cloth_file": "050965_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050347_0.jpg",
+    "cloth_file": "050347_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050567_0.jpg",
+    "cloth_file": "050567_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051634_0.jpg",
+    "cloth_file": "051634_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049464_0.jpg",
+    "cloth_file": "049464_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053679_0.jpg",
+    "cloth_file": "053679_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050849_0.jpg",
+    "cloth_file": "050849_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052137_0.jpg",
+    "cloth_file": "052137_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050982_0.jpg",
+    "cloth_file": "050982_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048986_0.jpg",
+    "cloth_file": "048986_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048468_0.jpg",
+    "cloth_file": "048468_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052146_0.jpg",
+    "cloth_file": "052146_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053480_0.jpg",
+    "cloth_file": "053480_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053004_0.jpg",
+    "cloth_file": "053004_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049211_0.jpg",
+    "cloth_file": "049211_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048992_0.jpg",
+    "cloth_file": "048992_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052796_0.jpg",
+    "cloth_file": "052796_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050138_0.jpg",
+    "cloth_file": "050138_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052536_0.jpg",
+    "cloth_file": "052536_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049477_0.jpg",
+    "cloth_file": "049477_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051251_0.jpg",
+    "cloth_file": "051251_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048955_0.jpg",
+    "cloth_file": "048955_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050393_0.jpg",
+    "cloth_file": "050393_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051419_0.jpg",
+    "cloth_file": "051419_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050726_0.jpg",
+    "cloth_file": "050726_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049684_0.jpg",
+    "cloth_file": "049684_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051981_0.jpg",
+    "cloth_file": "051981_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052842_0.jpg",
+    "cloth_file": "052842_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050870_0.jpg",
+    "cloth_file": "050870_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053402_0.jpg",
+    "cloth_file": "053402_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053749_0.jpg",
+    "cloth_file": "053749_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052725_0.jpg",
+    "cloth_file": "052725_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048456_0.jpg",
+    "cloth_file": "048456_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052935_0.jpg",
+    "cloth_file": "052935_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050844_0.jpg",
+    "cloth_file": "050844_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049240_0.jpg",
+    "cloth_file": "049240_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049492_0.jpg",
+    "cloth_file": "049492_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049337_0.jpg",
+    "cloth_file": "049337_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049268_0.jpg",
+    "cloth_file": "049268_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050623_0.jpg",
+    "cloth_file": "050623_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050700_0.jpg",
+    "cloth_file": "050700_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053346_0.jpg",
+    "cloth_file": "053346_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050117_0.jpg",
+    "cloth_file": "050117_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051200_0.jpg",
+    "cloth_file": "051200_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050059_0.jpg",
+    "cloth_file": "050059_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053587_0.jpg",
+    "cloth_file": "053587_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050554_0.jpg",
+    "cloth_file": "050554_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052532_0.jpg",
+    "cloth_file": "052532_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050449_0.jpg",
+    "cloth_file": "050449_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048808_0.jpg",
+    "cloth_file": "048808_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049148_0.jpg",
+    "cloth_file": "049148_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053588_0.jpg",
+    "cloth_file": "053588_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050658_0.jpg",
+    "cloth_file": "050658_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048753_0.jpg",
+    "cloth_file": "048753_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048421_0.jpg",
+    "cloth_file": "048421_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051124_0.jpg",
+    "cloth_file": "051124_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049463_0.jpg",
+    "cloth_file": "049463_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053611_0.jpg",
+    "cloth_file": "053611_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050537_0.jpg",
+    "cloth_file": "050537_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052011_0.jpg",
+    "cloth_file": "052011_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052911_0.jpg",
+    "cloth_file": "052911_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051895_0.jpg",
+    "cloth_file": "051895_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052986_0.jpg",
+    "cloth_file": "052986_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048471_0.jpg",
+    "cloth_file": "048471_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049008_0.jpg",
+    "cloth_file": "049008_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049613_0.jpg",
+    "cloth_file": "049613_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052861_0.jpg",
+    "cloth_file": "052861_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048687_0.jpg",
+    "cloth_file": "048687_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051416_0.jpg",
+    "cloth_file": "051416_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053163_0.jpg",
+    "cloth_file": "053163_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052918_0.jpg",
+    "cloth_file": "052918_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049605_0.jpg",
+    "cloth_file": "049605_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051912_0.jpg",
+    "cloth_file": "051912_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049436_0.jpg",
+    "cloth_file": "049436_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "048734_0.jpg",
+    "cloth_file": "048734_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050917_0.jpg",
+    "cloth_file": "050917_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051379_0.jpg",
+    "cloth_file": "051379_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048718_0.jpg",
+    "cloth_file": "048718_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051323_0.jpg",
+    "cloth_file": "051323_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050112_0.jpg",
+    "cloth_file": "050112_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050436_0.jpg",
+    "cloth_file": "050436_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049234_0.jpg",
+    "cloth_file": "049234_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051289_0.jpg",
+    "cloth_file": "051289_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052978_0.jpg",
+    "cloth_file": "052978_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053476_0.jpg",
+    "cloth_file": "053476_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049658_0.jpg",
+    "cloth_file": "049658_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050331_0.jpg",
+    "cloth_file": "050331_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049723_0.jpg",
+    "cloth_file": "049723_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049842_0.jpg",
+    "cloth_file": "049842_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051769_0.jpg",
+    "cloth_file": "051769_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048595_0.jpg",
+    "cloth_file": "048595_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049861_0.jpg",
+    "cloth_file": "049861_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051113_0.jpg",
+    "cloth_file": "051113_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051764_0.jpg",
+    "cloth_file": "051764_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050424_0.jpg",
+    "cloth_file": "050424_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049696_0.jpg",
+    "cloth_file": "049696_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049277_0.jpg",
+    "cloth_file": "049277_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051525_0.jpg",
+    "cloth_file": "051525_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048709_0.jpg",
+    "cloth_file": "048709_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052247_0.jpg",
+    "cloth_file": "052247_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050214_0.jpg",
+    "cloth_file": "050214_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050026_0.jpg",
+    "cloth_file": "050026_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052162_0.jpg",
+    "cloth_file": "052162_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051256_0.jpg",
+    "cloth_file": "051256_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050892_0.jpg",
+    "cloth_file": "050892_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050256_0.jpg",
+    "cloth_file": "050256_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050218_0.jpg",
+    "cloth_file": "050218_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048585_0.jpg",
+    "cloth_file": "048585_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049974_0.jpg",
+    "cloth_file": "049974_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051656_0.jpg",
+    "cloth_file": "051656_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051081_0.jpg",
+    "cloth_file": "051081_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050674_0.jpg",
+    "cloth_file": "050674_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048960_0.jpg",
+    "cloth_file": "048960_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050678_0.jpg",
+    "cloth_file": "050678_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051268_0.jpg",
+    "cloth_file": "051268_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053647_0.jpg",
+    "cloth_file": "053647_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052565_0.jpg",
+    "cloth_file": "052565_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051666_0.jpg",
+    "cloth_file": "051666_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051104_0.jpg",
+    "cloth_file": "051104_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048618_0.jpg",
+    "cloth_file": "048618_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049336_0.jpg",
+    "cloth_file": "049336_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050531_0.jpg",
+    "cloth_file": "050531_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049854_0.jpg",
+    "cloth_file": "049854_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053148_0.jpg",
+    "cloth_file": "053148_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050566_0.jpg",
+    "cloth_file": "050566_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048705_0.jpg",
+    "cloth_file": "048705_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049280_0.jpg",
+    "cloth_file": "049280_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053279_0.jpg",
+    "cloth_file": "053279_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051951_0.jpg",
+    "cloth_file": "051951_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051223_0.jpg",
+    "cloth_file": "051223_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051966_0.jpg",
+    "cloth_file": "051966_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053358_0.jpg",
+    "cloth_file": "053358_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052581_0.jpg",
+    "cloth_file": "052581_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049339_0.jpg",
+    "cloth_file": "049339_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051547_0.jpg",
+    "cloth_file": "051547_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053115_0.jpg",
+    "cloth_file": "053115_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049949_0.jpg",
+    "cloth_file": "049949_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050478_0.jpg",
+    "cloth_file": "050478_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048755_0.jpg",
+    "cloth_file": "048755_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051964_0.jpg",
+    "cloth_file": "051964_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048405_0.jpg",
+    "cloth_file": "048405_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "052651_0.jpg",
+    "cloth_file": "052651_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "052802_0.jpg",
+    "cloth_file": "052802_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050006_0.jpg",
+    "cloth_file": "050006_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051375_0.jpg",
+    "cloth_file": "051375_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051925_0.jpg",
+    "cloth_file": "051925_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "048965_0.jpg",
+    "cloth_file": "048965_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051096_0.jpg",
+    "cloth_file": "051096_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053496_0.jpg",
+    "cloth_file": "053496_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050963_0.jpg",
+    "cloth_file": "050963_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049412_0.jpg",
+    "cloth_file": "049412_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050852_0.jpg",
+    "cloth_file": "050852_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052546_0.jpg",
+    "cloth_file": "052546_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050925_0.jpg",
+    "cloth_file": "050925_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051737_0.jpg",
+    "cloth_file": "051737_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051064_0.jpg",
+    "cloth_file": "051064_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051688_0.jpg",
+    "cloth_file": "051688_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050814_0.jpg",
+    "cloth_file": "050814_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052933_0.jpg",
+    "cloth_file": "052933_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "049434_0.jpg",
+    "cloth_file": "049434_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "049963_0.jpg",
+    "cloth_file": "049963_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051836_0.jpg",
+    "cloth_file": "051836_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051497_0.jpg",
+    "cloth_file": "051497_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "049817_0.jpg",
+    "cloth_file": "049817_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "053434_0.jpg",
+    "cloth_file": "053434_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053054_0.jpg",
+    "cloth_file": "053054_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "050857_0.jpg",
+    "cloth_file": "050857_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "051718_0.jpg",
+    "cloth_file": "051718_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "052880_0.jpg",
+    "cloth_file": "052880_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "048395_0.jpg",
+    "cloth_file": "048395_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "050881_0.jpg",
+    "cloth_file": "050881_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050742_0.jpg",
+    "cloth_file": "050742_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "050113_0.jpg",
+    "cloth_file": "050113_1.jpg",
+    "category": "upper_body"
+  },
+  {
+    "image_file": "051913_0.jpg",
+    "cloth_file": "051913_1.jpg",
+    "category": "lower_body"
+  },
+  {
+    "image_file": "053143_0.jpg",
+    "cloth_file": "053143_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "053755_0.jpg",
+    "cloth_file": "053755_1.jpg",
+    "category": "dresses"
+  },
+  {
+    "image_file": "051031_0.jpg",
+    "cloth_file": "051031_1.jpg",
+    "category": "lower_body"
+  }
+]

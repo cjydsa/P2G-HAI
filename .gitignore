@@ -1,0 +1,15 @@
+# 大文件：模型权重 / 训练输出 / 评估结果（不上传）
+models/
+outputs/
+best/
+evaluation_results_*/
+
+# Python
+__pycache__/
+*.pyc
+.pycache_tmp/
+
+# 系统
+.DS_Store
+Thumbs.db
+nul
