@@ -14,9 +14,6 @@
 - **Denoising UNet（冻结）**：通过混合注意力模块（冻结自注意力 + 可训练交叉注意力）注入服装特征，保留文本可控性；
 - **P2G 还原**：以穿着图像为条件，从加噪 GT 出发重建服装图，评估还原保真度。
 
-## 定性结果
-
-![qualitative](assets/figures/qualitative.png)
 
 ## 主要结果
 
